@@ -3,7 +3,7 @@ import App from './App.vue'
 import Keziah from './components/keziah/Keziah.vue';
 
 import VueRouter from 'vue-router';
-import Coolness from './components/anton/Coolness'
+
 
 Vue.config.productionTip = false
 
