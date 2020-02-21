@@ -1,8 +1,6 @@
 <template>
   <nav>
-    <router-link :to="{
-          name: 'Coolness',
-        }">Antons Screen</router-link>
+      <router-link :to="'/keziah'">Keziah</router-link>
   </nav>
 </template>
 
